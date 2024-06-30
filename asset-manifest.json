@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/vehicle-power-to-weight-ratio-analyzer/static/css/main.5f0fc3b8.css",
+    "main.js": "/vehicle-power-to-weight-ratio-analyzer/static/js/main.63534f7e.js",
+    "static/js/453.aff2053b.chunk.js": "/vehicle-power-to-weight-ratio-analyzer/static/js/453.aff2053b.chunk.js",
+    "index.html": "/vehicle-power-to-weight-ratio-analyzer/index.html",
+    "main.5f0fc3b8.css.map": "/vehicle-power-to-weight-ratio-analyzer/static/css/main.5f0fc3b8.css.map",
+    "main.63534f7e.js.map": "/vehicle-power-to-weight-ratio-analyzer/static/js/main.63534f7e.js.map",
+    "453.aff2053b.chunk.js.map": "/vehicle-power-to-weight-ratio-analyzer/static/js/453.aff2053b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f0fc3b8.css",
+    "static/js/main.63534f7e.js"
+  ]
+}
