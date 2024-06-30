@@ -2,7 +2,7 @@
   "name": "ptwr-calculator",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/CzrOtz/vehicle-power-to-weight-ratio-analyzer.git",
+  "homepage": "https://CzrOtz.github.io/vehicle-power-to-weight-ratio-analyzer",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
