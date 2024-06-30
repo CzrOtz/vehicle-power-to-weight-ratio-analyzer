@@ -17,6 +17,8 @@ function DeliverComponents({ choice, setChoice }) {
         <div>
           <h1>Welcome to Vehicle Performance Analyzer</h1>
           <p>This application helps you analyze vehicle performance metrics.</p>
+          <p>Interface: Enter metrics, get results based on the data entered</p>
+          <p>Information: information about power-to-weight ratios, and information about the application</p>
         </div>
       )}
 

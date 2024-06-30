@@ -1,0 +1,98 @@
+/* General Styles */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif; /* Ensure you import the font in your index.html or use a CDN link */
+    background-color: #2b3a67; /* Dark-soft blue background */
+    color: white;
+  }
+  
+  /* Navbar Styles */
+  .navbar {
+    display: flex;
+    justify-content: space-around;
+    background-color: #1a1a1a; /* Off-black background */
+    padding: 10px 0;
+  }
+  
+  .navbar-button {
+    background-color: #ff6f61;
+    color: #000;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 20px; /* Make buttons rounder */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s;
+    cursor: pointer;
+  }
+  
+  .navbar-button:hover {
+    transform: translateY(-2px);
+  }
+  
+  .navbar-button:active {
+    transform: translateY(2px);
+  }
+  
+  /* Form and Input Styles */
+  .input-form {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #1c274d;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .input-group {
+    margin-bottom: 20px;
+  }
+  
+  .input-group label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .input-group input {
+    width: 100%;
+    max-width: calc(100% - 20px); /* Ensure inputs are not touching the edges */
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin: 0 auto; /* Center the inputs */
+    display: block;
+  }
+  
+  /* Button Styles */
+  .button {
+    display: inline-block; /* Adjust button width to content */
+    padding: 10px 20px;
+    margin: 20px auto; /* Center the buttons */
+    background-color: #ff6f61;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+    transition: transform 0.2s;
+  }
+  
+  .button:hover {
+    transform: translateY(-2px);
+  }
+  
+  .button:active {
+    transform: translateY(2px);
+  }
+  
+  /* Results Container Styles */
+  .results {
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #1c274d;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  
